@@ -10,7 +10,7 @@ import {
 } from "semantic-ui-react";
 
 export default () => (
-  <Grid centered columns={2}>
+  <Grid centered columns={4}>
     <Grid.Column>
       <Header as="h2" textAlign="center">
         Login
