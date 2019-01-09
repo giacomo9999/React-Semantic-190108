@@ -2,7 +2,7 @@ Another attempt (you can't see most of the others, because I deleted the repos a
 
 This one is from: https://www.robinwieruch.de/react-semantic-ui-tutorial/
 
-The basic steps are:
+The basic steps are
 0. create-react-app app_name_goes_here
 1. npm install semantic-ui-react
 2. npm install semantic-ui-css
